@@ -10,7 +10,7 @@
     - I am a self-taught and highly creative individual who seeks to learn and improve every day.
     - I enjoy working with the frontend because I want to provide the best visual experience for the users who visit my projects.  </div>
   <div style="width: 50%;">
-      https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC
+    https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif
   </div>
 </div>
 
