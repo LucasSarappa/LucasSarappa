@@ -30,8 +30,47 @@
 
 <a href="lsarappa00@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-lsarappa00@gmail.com-blue?style=flat-square&logo=gmail"></a>  
 
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=LucasSarappa&show_icons=true_color=0,000000,130F40)
+![GitHub Activity] <img align="center" src="https://github-readme-stats.vercel.app/api?username=LucasSarappa&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Lucas Sarappa's Github Stats">
+
+<!--
+<details>
+  <summary>:zap: Github Stats</summary>
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sumanth-Talluri&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Lakshya's Github Stats">
+</p>
+<br>
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=radical">
+</p>
+</details> -->
+
+### :zap: Github Stats
+
+  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=Sumanth-Talluri&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sumanth's Github Stats" width="60%">
+  
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=LucasSarappa&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Lucas Sarappa's Github Stats">
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=dark)
+![Sumanth's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true")-->
+
+
+<!--
+<details>
+  <summary>:zap: Github Stats</summary>
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sumanth-Talluri&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Lakshya's Github Stats">
+</p>
+<br>
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=radical">
+</p>
+</details> -->
+
+
+### :zap: Github Stats
+
+  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=Sumanth-Talluri&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sumanth's Github Stats" width="60%">
+  
+<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sumanth's Top Languages">
+
 
