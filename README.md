@@ -1,12 +1,18 @@
-<h1>Hello! I'm Lucas Sarappa <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
+<h1>Hello! I'm Lucas Sarappa <img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" width="30px"> 🚀</h1>
 <h2>Frontend Developer 🎨</h2>
 
-### About Me
-- I am 23 years old and I am from Capital Federal, Argentina.
-- I am a MERN and PERN full stack developer.
-- I am currently a systems engineering student at UTN.
-- I am a self-taught and highly creative individual who seeks to learn and improve every day.
-- I enjoy working with the frontend because I want to provide the best visual experience for the users who visit my projects.
+<div style="display: flex; align-items: center;">
+  <div style="width: 50%; padding-right: 20px;">
+    <p>About Me</p>
+    - I am 23 years old and I am from Capital Federal, Argentina.
+    - I am a MERN and PERN full stack developer.
+    - I am currently a systems engineering student at UTN.
+    - I am a self-taught and highly creative individual who seeks to learn and improve every day.
+    - I enjoy working with the frontend because I want to provide the best visual experience for the users who visit my projects.  </div>
+  <div style="width: 50%;">
+      https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC
+  </div>
+</div>
 
 ### Technologies
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -30,47 +36,15 @@
 
 <a href="lsarappa00@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-lsarappa00@gmail.com-blue?style=flat-square&logo=gmail"></a>  
 
-![GitHub Activity] <img align="center" src="https://github-readme-stats.vercel.app/api?username=LucasSarappa&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Lucas Sarappa's Github Stats">
 
-<!--
-<details>
-  <summary>:zap: Github Stats</summary>
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sumanth-Talluri&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Lakshya's Github Stats">
-</p>
-<br>
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=radical">
-</p>
-</details> -->
-
-### :zap: Github Stats
-
-  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=Sumanth-Talluri&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sumanth's Github Stats" width="60%">
-  
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=dark)
-![Sumanth's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true")-->
-
-
-<!--
-<details>
-  <summary>:zap: Github Stats</summary>
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sumanth-Talluri&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Lakshya's Github Stats">
-</p>
-<br>
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=radical">
-</p>
-</details> -->
-
-
-### :zap: Github Stats
-
-  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=Sumanth-Talluri&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sumanth's Github Stats" width="60%">
-  
-<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sumanth's Top Languages">
+  <summary>:zap:Github Stats</summary>
+  <div style="display: flex; justify-content: space-between;">
+    <div style="width: 60%;">
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=LucasSarappa&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Lucas's Github Stats">
+    </div>
+    <div style="width: 37%;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSarappa&show_icons=true&hide_border=true&theme=radical" alt="Lucas's Top Languages">
+    </div>
+  </div>
 
 
